@@ -1,0 +1,293 @@
+CAR B&B 
+
+ 
+
+A.	Executive Summary 
+
+In this modern world, ease of travel or commuting is one of the most common problems we still encounter. Having transportation to use for daily routines or travels can give us freedom and comfort while on going to places. Although there are tons of car rental companies that cater to people who cannot afford a car, there are still certain issues such as price, store location, etc. that plague them in renting a vehicle.  
+
+On the other hand, many car owners may find that their vehicles remain idle for a sizable portion of the time. Recognizing this untapped resource, car owners are interested in exploring opportunities to make profits with their idle cars by leasing them to others. 
+
+How will this kind of problem be solved? A car sharing platform can serve as an intermediary, connecting car owners with potential renters and facilitating seamless transactions. In this case, it is a win-win situation for both parties: The car owners can have an additional income while the renters can access a wide range of vehicles at lower prices, compared to traditional car rental services. 
+
+B.	Business Objectives 
+
+Business Need/Opportunity/Objectives 
+
+The current challenges in traditional car rental services, including issues related to cost, accessibility, and idle vehicle utilization, present an opportunity to create a disruptive car-sharing platform. 
+CarB&B acts as an intermediary, connecting car owners with potential renters, thereby providing a solution to the problems faced by both parties. 
+
+ 
+Objectives: 
+
+Increase accessibility to affordable and diverse vehicle options for renters. 
+
+Enable car owners to generate additional income by leasing out their idle vehicles. 
+
+Enhance overall convenience and flexibility in the transportation industry. 
+
+Foster a community-driven platform for sharing diverse vehicle experiences. 
+
+ 
+
+Product Description (Solution) 
+
+The proposed solution, CarB&B, is a comprehensive car-sharing platform that facilitates seamless transactions between car owners and renters. 
+
+ 
+
+Benefits: 
+
+Cost savings. Renters can access vehicles offering cost savings compared to traditional car companies. 
+
+Additional income. Car owners obtain an opportunity to earn extra income by renting out their vehicles during periods of non-use. 
+
+Time savings. Renters can choose car owners in their vicinity and rent vehicles from them instead of having to pick up the car from a traditional rental store. 
+
+Exchanging experiences. Drivers can experience a variety of vehicles and share their driving experiences via the platform. 
+
+No profiling. Anyone can use the platform. 
+
+Environmentally friendly. Online and Paperless transactions. 
+
+Success Criteria: 
+
+Successful implementation is measured by an increase in active users and completed transactions. 
+
+Positive feedback from both car owners and renters regarding the platform's usability and reliability. 
+
+Continuous engagement and growth in the CarB&B community. 
+
+ 
+
+Deliverables 
+
+Deliverables includes: 
+
+Development and Implementation of CarB&B Platform: 
+
+Backend Development: 
+
+Server setup and configuration. 
+
+Implementation of RESTful API endpoints for various functionalities. 
+
+Integration of backend logic for seamless communication between users, handling transactions, and managing user profiles. 
+
+Frontend Development: 
+
+Creation of responsive webpages for desktop and mobile devices. 
+
+Implementation of user interfaces for intuitive navigation. 
+
+Integration with backend API for real-time data updates. 
+
+ 
+
+Integration of User-Friendly Features: 
+
+Login and Registration Subsystems: 
+
+Webpage for User Login. 
+
+Webpage for User Registration. 
+
+User Profile Management Interface. 
+
+Search Subsystem: 
+
+Vehicle Search Page with Filters. 
+
+Results Page displaying available vehicles based on user preferences. 
+
+Communication Subsystem: 
+
+Messaging Interface for communication between car owners, renters, and service providers. 
+
+Payment Subsystem: 
+
+Secure Payment Gateway Integration. 
+
+Validation and Verification Processes. 
+
+Rating Subsystem: 
+
+User Rating and Review Submission Page. 
+
+Display of Ratings on Users Profiles. 
+
+ 
+
+Deployment of Secure and Efficient Database Schema: 
+
+Database Schema Design: 
+
+Tables for User Information (Renters and Car Owners). 
+
+Tables for Transaction History. 
+
+Tables for Listings. 
+
+Implementation of Database Functions: 
+
+Data storage and retrieval for user profiles, transaction records, and ratings. 
+
+Specific Webpages: 
+
+Renters' Registration: 
+
+Webpage for renters to create an account. 
+
+Input fields for personal details and preferences. 
+
+Car Owners' Registration: 
+
+Webpage for car owners to register their vehicles. 
+
+Input fields for vehicle details and availability. 
+
+Vehicle Search: 
+
+Webpage enabling users to search for available vehicles. 
+
+Filters for refining search results based on criteria. 
+
+Transaction History: 
+
+User interface displaying the history of completed transactions. 
+
+User Profile: 
+
+Personalized profiles for both renters and car owners. 
+
+Display of user information, transaction history, and ratings. 
+
+Integration of Google Maps API: 
+
+Implementation of Google Maps API integration for: 
+
+Displaying addresses of car owners. 
+
+Providing interactive maps for users to visualize vehicle locations. 
+
+User-Friendly Interfaces Accessible on Both Desktop and Mobile Devices: 
+
+Responsive Design: 
+
+Ensuring seamless user experience on various screen sizes. 
+
+Optimization for both desktop and mobile browsers. 
+
+ 
+
+Deliverables excludes: 
+
+Test data and server-related components. 
+
+Database (Uses current legacy database). 
+
+Physical servers, which fall outside the scope of the project. 
+
+ 
+
+Tech Stack: 
+
+Backend: Node.js with Express 
+
+Database: MongoDB 
+
+Frontend: React.js 
+
+Cloud Provider: AWS (Amazon Web Services) 
+
+ 
+
+C.	Project Description 
+
+Scope 
+
+ 
+
+Includes: 
+
+Development and implementation of the CarB&B platform with the following functionality: 
+
+Login and Registration Subsystems: User authentication, registration, and profile management. 
+
+Search Subsystem: Enables users to search for available vehicles based on preferences. 
+
+Car Gallery Subsystem: Internal and external search functionality, help and support, and filtering options. 
+
+Communication Subsystem: Facilitates communication between car owners, renters, and service providers. 
+
+Payment Subsystem: Integration of secure payment methods, validations, and verifications. 
+
+Rating Subsystem: Implements a transparent rating system for users to review and rate each other. 
+
+Design and deployment of a database schema supporting the application's data requirements. 
+
+Integration of Google Maps API using an Adapter design pattern to display car owner addresses. 
+
+User-friendly interfaces accessible on both desktop and mobile devices. 
+
+ 
+
+Does Not Include: 
+
+Physical servers and related infrastructure. 
+
+Test data beyond the scope of development. 
+
+Database (Uses current legacy database). 
+
+ 
+
+Completion Criteria: 
+
+Successful completion of the CarB&B platform with all specified subsystems fully functional. 
+
+Deployment of a secure and efficient database schema supporting the platform's data requirements. 
+
+Integration of Google Maps API using an Adapter design pattern for displaying car owner addresses. 
+
+User acceptance testing with positive feedback on usability and reliability. 
+
+Delivery of comprehensive documentation for future maintenance and enhancements. 
+
+Demonstration of the platform's ability to increase accessibility, generate additional income for car owners, and provide a convenient car-sharing experience. 
+
+ 
+
+Measures of Project Success 
+
+ 
+
+User Engagement Metrics: 
+
+Increase in the number of active users on the CarB&B platform. 
+
+Positive feedback from users regarding the ease of use and convenience of the system. 
+
+High user ratings for the overall platform experience. 
+
+Transaction Metrics: 
+
+Successful completion of a predefined number of transactions between car owners and renters. 
+
+Validation of secure payment transactions and account verifications. 
+
+Community Growth: 
+
+Growth in the CarB&B community, measured by an increase in registered users. 
+
+Positive testimonials and shared experiences within the platform. 
+
+Environmental Impact: 
+
+Reduction in paper-based transactions, contributing to an environmentally friendly approach. 
+
+Monitoring and reporting of the platform's carbon footprint 
+
+ 
+
+The success of the project will be determined by achieving these metrics, ensuring that CarB&B meets its objectives of providing a seamless, cost-effective, and sustainable car-sharing experience for users. 
